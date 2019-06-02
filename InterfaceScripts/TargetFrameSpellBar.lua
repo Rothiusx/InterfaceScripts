@@ -1,0 +1,1 @@
+TargetFrameSpellBar:SetScale(1.4)

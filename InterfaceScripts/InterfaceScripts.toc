@@ -1,0 +1,12 @@
+## Interface: 80100
+## Title: Interface Scripts
+## Notes: Fixes default cast bars, pet frame, and highlights dispellable buffs for all classes.
+## Author: Rothius
+## Version: 4.3
+
+CastingBarFrame.lua
+PetFrame.lua
+TargetFrameSpellBar.lua
+FocusFrameSpellBar.lua
+ActionBarText.lua
+DispellableBuffs.lua

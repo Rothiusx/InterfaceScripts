@@ -1,0 +1,1 @@
+CastingBarFrame:SetScale(1.1)

@@ -1,0 +1,1 @@
+PetFrame:SetScale(1.1)

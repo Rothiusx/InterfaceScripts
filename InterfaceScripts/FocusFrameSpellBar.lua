@@ -1,0 +1,1 @@
+FocusFrameSpellBar:SetScale(1.4)
